@@ -10,4 +10,16 @@
       <strong>100/100</strong>
     </td>
   </tr>
+   <tr>
+    <td>
+      <strong><a href="https://github.com/emresmrlp/cpp01">CPP01</a></strong>
+    </td>
+    <td>
+      -
+    </td>
+    <td>
+      <strong>100/100</strong>
+    </td>
+  </tr>
 </table>
+
