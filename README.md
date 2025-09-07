@@ -37,10 +37,10 @@
       <strong><a href="https://github.com/emresmrlp/cpp03">CPP03</a></strong>
     </td>
     <td>
-      -
+      CPP03 focuses on inheritance and multiple inheritance in C++. Protected members, the diamond problem, and virtual public inheritance are covered.
     </td>
     <td>
-      <strong>0/100</strong>
+      <strong>100/100</strong>
     </td>
   </tr>
   <tr>
@@ -55,6 +55,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
